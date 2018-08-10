@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">PaperCase</string>
+  <string name="obs">\t\t\tO texto abaixo foi escrito numa folha de papel tendo em média 7 palavras por linha e 58 linhas. No total foram utilizadas mais ou menos 58 vezes 7 palavras</string>
+  <string name="case_title">\t\t\tCase da folha de papel</string>
+  <string name="case_text">
+    \t\t\tDepois da prova final dos jogos olímpicos do Rio de Janeiro, em 2016, fui contagiado pelo espírito da maratona e tomei a decisão de me tornar também campeão olímpico. Do auge dos meus 29 anos, defini meu objetivo. Dali a 4 anos, nas olimpíadas de Tóquio 2020, estaria disputando a prova final de 10km, ao lado de Mo Farah, quenianos e etíopes, participando dos festejos com Neymar, Usain Bolt e Bruninho do vôlei, mordendo uma medalha.\n
+    \t\t\tEu já trabalhava havia algum tempo utilizando métodos ágeis e Lean, então o plano era levar meu produto, no caso: eu mesmo, para a pista. Testá-lo o mais rápido rápido super rápido possível, em condições reais, e o evoluir iterativamente semana após semana.\n
+    \t\t\tEra sabida a minha restrição de cronograma. Tinha quase 4 anos para lançar não só um produto que corresse 10km em menos de 27 minutos, mas tivesse afinidade com as câmeras, carisma com o público e dinheiro para participar das melhores provas pelo Brasil e mundo.\n
+    \t\t\tApós os primeiros meses correndo e trabalhando como engenheiro de software, notei que minha ideia inicial de correr para ser campeão do mundo era desnecessária, pois meu produto estava me ensinando coisas mais valiosas e simples do que isso, as quais eu poderia aplicar diretamente na minha profissão.\n
+    \t\t\tPor exemplo, que a vitória se conquista gradualmente, passando dia após dia por desafios menores: um treino de tiros, uma aplicação no ar em poucas horas, aprender o paradigma de programação da moda ou uma corrida longa, eles te mantém no ritmo para uma conquista maior.\n
+    \t\t\tEnsinou também que se não corremos semana após semana, perdemos a forma. E mesmo quando se perde a forma, que é possível recuperá-la voltando a correr.\n
+    \t\t\tAdotei no início de 2017 uma companheira canina que tinha o perfil de resistência a longas distâncias. Dei a ela o nome de Seta. Depois disso nunca mais corri sozinho. Mesmo tendo que interromper a corrida de vez em quando para pegar o cocô dela, percebi que é possível cobrir maiores distâncias estando em grupo.\n
+    \t\t\tNosso objetivo atual é atingir os 21km e depois 30km, pois em grupo a dor é mais suportável, o comprometimento é mútuo e a sensação do dever cumprido é multiplicada nas diversas chegadas.
+</string>
+</resources>
